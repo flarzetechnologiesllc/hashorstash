@@ -1,5 +1,7 @@
 # HashOrStash
 
+![Optional Text](https://4.bp.blogspot.com/-bXMY7c8P6ro/WmGow1QTg_I/AAAAAAAAAB0/zoD0V2VoYdw7NNQrzHi_o0_cHTT0Qu5RQCKgBGAs/s320/App-Icon-Transparent.png)
+
 ## Problem
 
 Contemporary online review apps tend to follow an immutable review model, where posted consumer reviews do not reflect the current state of the point of interest, leading to stale reviews. Furthermore, these platforms tend to be unforgiving to businesses by allowing consumers to post misleading reviews even though those reviews might be unsupported and/or not verified by a larger audience. This problem diminishes the overall quality of the review platform.
